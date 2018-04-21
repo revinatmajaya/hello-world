@@ -1,2 +1,7 @@
 # hello-world
-time-honored tradition in computer programming •&lt;•
+<pre>
+Halo dunia,
+Di dunia ini,
+aku telah belajar,
+belajar banyak hal.
+</pre>
