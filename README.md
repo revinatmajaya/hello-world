@@ -1,2 +1,2 @@
 # hello-world
-time-honored tradition in computer programming •&lt;•
+time-honored tradition in computer programming
